@@ -28,7 +28,7 @@ Lenguajes de Programación:
 
 Actualmente estoy en búsqueda activa de trabajo.
 Si quiere contactar conmigo, puede hacerlo a través de:
-<a href="https://www.linkedin.com/in/estina/"><img src="./LI-Logo.png" height="48" title="Linkedin" alt="Linkedin"></a>
+<br><a href="https://www.linkedin.com/in/estina/"><img src="./LI-Logo.png" height="48" title="Linkedin" alt="Linkedin"></a>
 
 
 <!--
