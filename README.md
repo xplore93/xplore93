@@ -5,7 +5,7 @@
 <p>¡Hola! Me llamo <strong>Eugeniu Stina</strong>, soy desarrollador de software de todo tipo.
 No soy desarrollador Web o Mobile, creo que el buen desarrollador es el que crea cualquier típo de aplicación, lo que importa es la calidad del código.
 Tengo experiencia en programación implementando diferentes algoritmos y prácticas tanto lógicas como funcionales.</p>
-<br>
+<br><p align="center">
 Las herramientas que utilizo son:
 <br>
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="48" title="Docker" alt="Docker">
@@ -22,6 +22,7 @@ Lenguajes de Programación:<br>
 <img src="./nodejs.svg" height="48" title="NodeJS" alt="NodeJS">
 <img src="https://vuejs.org/images/logo.png" height="48" title="VueJS" alt="VueJS">
 <img src="https://www.php.net/images/logos/php-logo-bigger.png" height="48" title="PHP" alt="PHP">
+</p>
 
 ---
 
