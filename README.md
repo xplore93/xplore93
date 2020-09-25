@@ -1,20 +1,19 @@
-## Eugeniu Stina
-### Developer of better daily expirience 🚀
+<span align="center">
+<h1>Eugeniu Stina</h1>
+<h3>Developer of better daily expirience 🚀</h3>
 
-¡Hola! Me llamo Eugeniu Stina, soy desarrollador de software de todo tipo.
+<p>¡Hola! Me llamo <strong>Eugeniu Stina</strong>, soy desarrollador de software de todo tipo.
 No soy desarrollador Web o Mobile, creo que el buen desarrollador es el que crea cualquier típo de aplicación, lo que importa es la calidad del código.
-Tengo experiencia en programación implementando diferentes algoritmos y prácticas tanto lógicas como funcionales.
-<br><br>
+Tengo experiencia en programación implementando diferentes algoritmos y prácticas tanto lógicas como funcionales.</p>
+<br>
 Las herramientas que utilizo son:
 <br>
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="48" title="Docker" alt="Docker">
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="48" title="Github" alt="Github">
 <img src="./trello-mark-blue.png" height="48" title="Trello" alt="Trello">
 <img src="./vsc.png" height="48" title="Visual Studio Code" alt="Visual Studio Code">
-
-<br>
-
-Lenguajes de Programación:   
+<br><br>
+Lenguajes de Programación:<br>
 <img src="./c-programming.svg" height="48" title="C" alt="C">
 <img src="./c-plus.svg" height="48" title="C++" alt="C++">
 <img src="./java.svg" height="48" title="Java" alt="Java">
@@ -29,8 +28,7 @@ Lenguajes de Programación:
 Actualmente estoy en búsqueda activa de trabajo.
 Si quiere contactar conmigo, puede hacerlo a través de:
 <br><a href="https://www.linkedin.com/in/estina/"><img src="./LI-Logo.png" height="48" title="Linkedin" alt="Linkedin"></a>
-
-
+</span>
 <!--
 **xplore93/xplore93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
